@@ -9,8 +9,8 @@ export default {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        snow : "#f0f8f0",
+        aqua : "#00ffff"
       },
     },
   },
